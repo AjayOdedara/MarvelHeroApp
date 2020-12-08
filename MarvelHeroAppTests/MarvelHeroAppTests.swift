@@ -2,11 +2,10 @@
 //  MarvelHeroAppTests.swift
 //  MarvelHeroAppTests
 //
-//  Created by Ajay Odedra on 22/09/20.
+//  Created by Ajay Odedra on 27/09/20.
 //
 
 import XCTest
-@testable import MarvelHeroApp
 
 class MarvelHeroAppTests: XCTestCase {
 
@@ -25,7 +24,7 @@ class MarvelHeroAppTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        self.measure {
+        measure {
             // Put the code you want to measure the time of here.
         }
     }
